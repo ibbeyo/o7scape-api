@@ -1,4 +1,4 @@
-Still under constructiong.
+Still under construction.
 
 ## Hiscores API
 
