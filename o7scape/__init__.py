@@ -1,0 +1,1 @@
+from o7scape.hiscores_api.hiscores import PersonalHiscores
